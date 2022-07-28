@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1tsd
 - 👀 I’m interested in this programing
 - 🌱 I’m currently learning how start the coding in Python
-- 💞️ I’m looking to collaborate on notingj
+- 💞️ I’m looking to collaborate on noting
 - 📫 How to reach me twinssungwoo@gmail.com
 
 <!---
